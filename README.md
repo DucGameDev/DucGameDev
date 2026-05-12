@@ -10,7 +10,7 @@
 - 🏠 Based in Vietnam
 - 🛠 I love building apps, automating tasks
 - 🌱 Always learning new tech and best practices
-- 🎮 I learn Unity, btw
+- 🐍 I learn Python, btw
 
 ### 🌐 Connect with me
 
